@@ -2,6 +2,15 @@
   {
     "pack": "cream-pajamas",
     "outfit": "米白睡衣",
+    "id": "cheer",
+    "caption": "加油",
+    "gif": "packs/cream-pajamas/cheer.gif",
+    "png": "packs/cream-pajamas/cheer.png",
+    "frames": 4
+  },
+  {
+    "pack": "cream-pajamas",
+    "outfit": "米白睡衣",
     "id": "hello",
     "caption": "你好呀",
     "gif": "packs/cream-pajamas/hello.gif",
@@ -11,17 +20,71 @@
   {
     "pack": "cream-pajamas",
     "outfit": "米白睡衣",
-    "id": "cheer",
-    "caption": "加油",
-    "gif": "packs/cream-pajamas/cheer.gif",
-    "png": "packs/cream-pajamas/cheer.png",
+    "id": "hungry",
+    "caption": "饿了",
+    "gif": "packs/cream-pajamas/hungry.gif",
+    "png": "packs/cream-pajamas/hungry.png",
+    "frames": 4
+  },
+  {
+    "pack": "cream-pajamas",
+    "outfit": "米白睡衣",
+    "id": "morning",
+    "caption": "早安",
+    "gif": "packs/cream-pajamas/morning.gif",
+    "png": "packs/cream-pajamas/morning.png",
+    "frames": 4
+  },
+  {
+    "pack": "cream-pajamas",
+    "outfit": "米白睡衣",
+    "id": "night",
+    "caption": "晚安",
+    "gif": "packs/cream-pajamas/night.gif",
+    "png": "packs/cream-pajamas/night.png",
+    "frames": 4
+  },
+  {
+    "pack": "cream-pajamas",
+    "outfit": "米白睡衣",
+    "id": "rest",
+    "caption": "休息一下",
+    "gif": "packs/cream-pajamas/rest.gif",
+    "png": "packs/cream-pajamas/rest.png",
+    "frames": 4
+  },
+  {
+    "pack": "cream-pajamas",
+    "outfit": "米白睡衣",
+    "id": "sleepy",
+    "caption": "困了",
+    "gif": "packs/cream-pajamas/sleepy.gif",
+    "png": "packs/cream-pajamas/sleepy.png",
+    "frames": 4
+  },
+  {
+    "pack": "cream-pajamas",
+    "outfit": "米白睡衣",
+    "id": "thanks",
+    "caption": "谢谢你",
+    "gif": "packs/cream-pajamas/thanks.gif",
+    "png": "packs/cream-pajamas/thanks.png",
+    "frames": 4
+  },
+  {
+    "pack": "cream-hoodie",
+    "outfit": "奶油卫衣",
+    "id": "coming",
+    "caption": "来啦",
+    "gif": "packs/cream-hoodie/coming.gif",
+    "png": "packs/cream-hoodie/coming.png",
     "frames": 4
   },
   {
     "pack": "cream-hoodie",
     "outfit": "奶油卫衣",
     "id": "hello",
-    "caption": "你好呀",
+    "caption": "嗨",
     "gif": "packs/cream-hoodie/hello.gif",
     "png": "packs/cream-hoodie/hello.png",
     "frames": 4
@@ -33,6 +96,177 @@
     "caption": "收到",
     "gif": "packs/cream-hoodie/ok.gif",
     "png": "packs/cream-hoodie/ok.png",
+    "frames": 4
+  },
+  {
+    "pack": "cream-hoodie",
+    "outfit": "奶油卫衣",
+    "id": "question",
+    "caption": "怎么啦",
+    "gif": "packs/cream-hoodie/question.gif",
+    "png": "packs/cream-hoodie/question.png",
+    "frames": 4
+  },
+  {
+    "pack": "cream-hoodie",
+    "outfit": "奶油卫衣",
+    "id": "sorry",
+    "caption": "对不起",
+    "gif": "packs/cream-hoodie/sorry.gif",
+    "png": "packs/cream-hoodie/sorry.png",
+    "frames": 4
+  },
+  {
+    "pack": "cream-hoodie",
+    "outfit": "奶油卫衣",
+    "id": "thinking",
+    "caption": "让我想想",
+    "gif": "packs/cream-hoodie/thinking.gif",
+    "png": "packs/cream-hoodie/thinking.png",
+    "frames": 4
+  },
+  {
+    "pack": "cream-hoodie",
+    "outfit": "奶油卫衣",
+    "id": "understood",
+    "caption": "明白了",
+    "gif": "packs/cream-hoodie/understood.gif",
+    "png": "packs/cream-hoodie/understood.png",
+    "frames": 4
+  },
+  {
+    "pack": "cream-hoodie",
+    "outfit": "奶油卫衣",
+    "id": "wait",
+    "caption": "等我一下",
+    "gif": "packs/cream-hoodie/wait.gif",
+    "png": "packs/cream-hoodie/wait.png",
+    "frames": 4
+  },
+  {
+    "pack": "western-denim",
+    "outfit": "西部牛仔",
+    "id": "angry",
+    "caption": "生气了",
+    "gif": "packs/western-denim/angry.gif",
+    "png": "packs/western-denim/angry.png",
+    "frames": 4
+  },
+  {
+    "pack": "western-denim",
+    "outfit": "西部牛仔",
+    "id": "awesome",
+    "caption": "太棒了",
+    "gif": "packs/western-denim/awesome.gif",
+    "png": "packs/western-denim/awesome.png",
+    "frames": 4
+  },
+  {
+    "pack": "western-denim",
+    "outfit": "西部牛仔",
+    "id": "bye",
+    "caption": "拜拜",
+    "gif": "packs/western-denim/bye.gif",
+    "png": "packs/western-denim/bye.png",
+    "frames": 4
+  },
+  {
+    "pack": "western-denim",
+    "outfit": "西部牛仔",
+    "id": "cool",
+    "caption": "拿捏了",
+    "gif": "packs/western-denim/cool.gif",
+    "png": "packs/western-denim/cool.png",
+    "frames": 4
+  },
+  {
+    "pack": "western-denim",
+    "outfit": "西部牛仔",
+    "id": "go",
+    "caption": "出发",
+    "gif": "packs/western-denim/go.gif",
+    "png": "packs/western-denim/go.png",
+    "frames": 4
+  },
+  {
+    "pack": "western-denim",
+    "outfit": "西部牛仔",
+    "id": "laugh",
+    "caption": "哈哈哈",
+    "gif": "packs/western-denim/laugh.gif",
+    "png": "packs/western-denim/laugh.png",
+    "frames": 4
+  },
+  {
+    "pack": "western-denim",
+    "outfit": "西部牛仔",
+    "id": "shock",
+    "caption": "震惊",
+    "gif": "packs/western-denim/shock.gif",
+    "png": "packs/western-denim/shock.png",
+    "frames": 4
+  },
+  {
+    "pack": "brown-lace",
+    "outfit": "棕色蕾丝裙",
+    "id": "cry",
+    "caption": "呜呜呜",
+    "gif": "packs/brown-lace/cry.gif",
+    "png": "packs/brown-lace/cry.png",
+    "frames": 4
+  },
+  {
+    "pack": "brown-lace",
+    "outfit": "棕色蕾丝裙",
+    "id": "flower",
+    "caption": "送你花",
+    "gif": "packs/brown-lace/flower.gif",
+    "png": "packs/brown-lace/flower.png",
+    "frames": 4
+  },
+  {
+    "pack": "brown-lace",
+    "outfit": "棕色蕾丝裙",
+    "id": "hug",
+    "caption": "抱抱",
+    "gif": "packs/brown-lace/hug.gif",
+    "png": "packs/brown-lace/hug.png",
+    "frames": 4
+  },
+  {
+    "pack": "brown-lace",
+    "outfit": "棕色蕾丝裙",
+    "id": "listen",
+    "caption": "我听着",
+    "gif": "packs/brown-lace/listen.gif",
+    "png": "packs/brown-lace/listen.png",
+    "frames": 4
+  },
+  {
+    "pack": "brown-lace",
+    "outfit": "棕色蕾丝裙",
+    "id": "miss",
+    "caption": "想你了",
+    "gif": "packs/brown-lace/miss.gif",
+    "png": "packs/brown-lace/miss.png",
+    "frames": 4
+  },
+  {
+    "pack": "brown-lace",
+    "outfit": "棕色蕾丝裙",
+    "id": "sad",
+    "caption": "委屈",
+    "gif": "packs/brown-lace/sad.gif",
+    "png": "packs/brown-lace/sad.png",
+    "frames": 4
+  },
+  {
+    "pack": "brown-lace",
+    "outfit": "棕色蕾丝裙",
+    "id": "tired",
+    "caption": "辛苦啦",
+    "gif": "packs/brown-lace/tired.gif",
+    "png": "packs/brown-lace/tired.png",
     "frames": 4
   }
 ]

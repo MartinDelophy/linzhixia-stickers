@@ -17,7 +17,7 @@ for item in items:
  check=Image.open(dest);assert check.n_frames==4 and check.info['loop']==0
  for f in ImageSequence.Iterator(check):assert f.convert('RGBA').getpixel((0,0))[3]==0
  print(item['pack'],item['id'],'4 frames; transparent; loop OK')
-with zipfile.ZipFile(root/'downloads/starter-pack.zip','w',zipfile.ZIP_DEFLATED) as z:
+with zipfile.ZipFile(root/'downloads/media-pack.zip','w',zipfile.ZIP_DEFLATED) as z:
  for item in items:
   for kind in ['gif','png']:z.write(root/item[kind],item[kind])
-with zipfile.ZipFile(root/'downloads/starter-pack.zip') as z:assert z.testzip() is None
+with zipfile.ZipFile(root/'downloads/media-pack.zip') as z:assert z.testzip() is None
