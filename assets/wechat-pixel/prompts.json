@@ -1,0 +1,22 @@
+[
+  {
+    "asset": "icon",
+    "prompt": "Use case: identity-preserve. Reference provides the user's original fictional adult character Lin Zhixia transformed into pixel chibi stickers. Match the exact cute pixel art aesthetic, visible square pixels, recognizable deep brown hair, bangs, warm brown eyes, 2-head proportions, warm brown/cream palette. Do not copy the reference contact sheet layout or numbered labels. ONE square tiny-icon source. Original Lin Zhixia chibi FRONT FACE ONLY, cream pajama collar barely visible, long brown wavy hair, bangs, brown eyes, gentle smile. NO glasses. Large head centered, all hair inside square with small margin. Transparent background, NO outlines or white stroke, NO text or decorations. Strong simple pixel clusters suitable for 50x50 downsample."
+  },
+  {
+    "asset": "cover",
+    "prompt": "Use case: identity-preserve. Reference provides the user's original fictional adult character Lin Zhixia transformed into pixel chibi stickers. Match the exact cute pixel art aesthetic, visible square pixels, recognizable deep brown hair, bangs, warm brown eyes, 2-head proportions, warm brown/cream palette. Do not copy the reference contact sheet layout or numbered labels. ONE square cover asset. Original Lin Zhixia chibi in cream pajamas, long brown wavy hair, bangs, brown eyes. Front waist-up, smiling and waving, NO glasses. Complete hair and hands within frame with small safe margins. Genuinely transparent background, NO outline or white stroke, NO text, no decorations, clean crisp edges."
+  },
+  {
+    "asset": "tip-guide",
+    "prompt": "Use case: identity-preserve. Reference provides the user's original fictional adult character Lin Zhixia transformed into pixel chibi stickers. Match the exact cute pixel art aesthetic, visible square pixels, recognizable deep brown hair, bangs, warm brown eyes, 2-head proportions, warm brown/cream palette. Do not copy the reference contact sheet layout or numbered labels. Landscape ratio 750:560 designed tipping invitation artwork. ONE large original Lin Zhixia chibi in cream pajamas making heart with both hands, lower left; smaller hoodie version smiling and waving lower right. Warm peach cream opaque backdrop with few pixel hearts. Exact large Chinese text at upper center 谢谢你的喜欢 and smaller subtitle 你的支持，让温柔继续. Smooth legible dark brown typography, characters remain crisp pixel art, ample padding, not crowded. No other text, no QR codes."
+  },
+  {
+    "asset": "banner",
+    "prompt": "Use case: identity-preserve. Reference provides the user's original fictional adult character Lin Zhixia transformed into pixel chibi stickers. Match the exact cute pixel art aesthetic, visible square pixels, recognizable deep brown hair, bangs, warm brown eyes, 2-head proportions, warm brown/cream palette. Do not copy the reference contact sheet layout or numbered labels. Wide 1.875:1 colorful pixel-art promotional scene. NO TEXT. Original Lin Zhixia chibi in FOUR different outfits from reference (cream pajamas, hoodie glasses, brown cowboy hat denim, brown lace dress) gathered around a cozy craft desk sharing a sketchbook, friendly expressive interactions. Bright peach and sage green opaque room background, a few plants and pixel hearts, rich coherent scene. No typography, no labels."
+  },
+  {
+    "asset": "tip-thanks",
+    "prompt": "Use case: identity-preserve. Reference provides the user's original fictional adult character Lin Zhixia transformed into pixel chibi stickers. Match the exact cute pixel art aesthetic, visible square pixels, recognizable deep brown hair, bangs, warm brown eyes, 2-head proportions, warm brown/cream palette. Do not copy the reference contact sheet layout or numbered labels. Square designed thank-you artwork after voluntary tip. ONE large original Lin Zhixia chibi in brown lace dress white lace collar bow, brown long hair half up, NO glasses, holding pink flower and smiling with closed happy eyes. Cream peach opaque background, few pixel hearts. Exact large Chinese title at top 谢谢你的支持 and smaller text below 林知夏会继续陪伴你. Clear dark brown smooth typography, crisp pixel character, ample padding, no other text, no QR codes."
+  }
+]
