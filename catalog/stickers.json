@@ -1,0 +1,38 @@
+[
+  {
+    "pack": "cream-pajamas",
+    "outfit": "米白睡衣",
+    "id": "hello",
+    "caption": "你好呀",
+    "gif": "packs/cream-pajamas/hello.gif",
+    "png": "packs/cream-pajamas/hello.png",
+    "frames": 4
+  },
+  {
+    "pack": "cream-pajamas",
+    "outfit": "米白睡衣",
+    "id": "cheer",
+    "caption": "加油",
+    "gif": "packs/cream-pajamas/cheer.gif",
+    "png": "packs/cream-pajamas/cheer.png",
+    "frames": 4
+  },
+  {
+    "pack": "cream-hoodie",
+    "outfit": "奶油卫衣",
+    "id": "hello",
+    "caption": "你好呀",
+    "gif": "packs/cream-hoodie/hello.gif",
+    "png": "packs/cream-hoodie/hello.png",
+    "frames": 4
+  },
+  {
+    "pack": "cream-hoodie",
+    "outfit": "奶油卫衣",
+    "id": "ok",
+    "caption": "收到",
+    "gif": "packs/cream-hoodie/ok.gif",
+    "png": "packs/cream-hoodie/ok.png",
+    "frames": 4
+  }
+]
