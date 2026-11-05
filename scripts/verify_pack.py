@@ -4,7 +4,7 @@ from PIL import Image,ImageSequence
 import json,zipfile
 root=Path(__file__).resolve().parents[1]
 items=json.loads((root/'catalog/stickers.json').read_text())
-assert len(items)>=30
+assert len(items)==100
 assert len({i['caption'] for i in items})==len(items)
 for item in items:
  im=Image.open(root/item['gif'])
@@ -15,7 +15,7 @@ for item in items:
   assert frame.getpixel((0,0))[3]==0
   bbox=frame.getbbox();assert bbox and bbox[0]>0 and bbox[1]>0 and bbox[2]<320 and bbox[3]<320,(item['id'],bbox)
  assert (root/item['png']).exists()
-with zipfile.ZipFile(root/'downloads/stickers-30.zip') as z:
+with zipfile.ZipFile(root/'downloads/stickers-100.zip') as z:
  assert z.testzip() is None
  assert sum(n.endswith('.gif') for n in z.namelist())==len(items)
  assert sum(n.endswith('.png') for n in z.namelist())==len(items)
